@@ -1,0 +1,3 @@
+https://letsbuildui.dev/articles/animated-page-transitions-in-nextjs
+
+https://maxschmitt.me/posts/nextjs-page-transitions-framer-motion
